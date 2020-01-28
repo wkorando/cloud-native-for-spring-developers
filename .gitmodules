@@ -1,0 +1,9 @@
+[submodule "cnsd-produce-client"]
+	path = cnsd-produce-client
+	url = https://github.com/wkorando/cnsd-produce-client.git
+[submodule "cnsd-produce-contracts"]
+	path = cnsd-produce-contracts
+	url = https://github.com/wkorando/cnsd-produce-contracts.git
+[submodule "cnsd-produce-service"]
+	path = cnsd-produce-service
+	url = https://github.com/wkorando/cnsd-produce-service.git
