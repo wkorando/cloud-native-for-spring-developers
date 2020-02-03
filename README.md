@@ -27,5 +27,7 @@ You can build and deploy this demo yourself, to view the steps be sure to checko
 ## Deploying the Application
 
 Backend Spring Service: [![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/wkorando/cnsd-produce-service&branch=master&env_id=ibm:yp:us-south)
+
+Downstream Spring Service: [![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/wkorando/cnsd-downstream-service&branch=master&env_id=ibm:yp:us-south)
 	
 Frontend Angular Application: [![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/wkorando/cnsd-produce-client&branch=master&env_id=ibm:yp:us-south)
