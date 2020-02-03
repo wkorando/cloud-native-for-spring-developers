@@ -7,3 +7,6 @@
 [submodule "cnsd-produce-service"]
 	path = cnsd-produce-service
 	url = https://github.com/wkorando/cnsd-produce-service.git
+[submodule "cnsd-downstream-service"]
+	path = cnsd-downstream-service
+	url = https://github.com/wkorando/cnsd-downstream-service
